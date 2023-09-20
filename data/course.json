@@ -1,0 +1,46 @@
+{
+  "term": "Spring",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ]
+  ],
+  "legacy_uid": "45d8c99a-0913-3fc4-5346-161fad8a1bab",
+  "instructors": {
+    "content": [
+      "6c3faa59-b6f4-c347-b314-ad98ed1582bc",
+      "98ec27de-e82b-1131-3002-da015015161a",
+      "8a059de4-4694-c03f-61e8-c6f0b9e8babe"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f9a126fd-f655-de26-b194-279aa4e2a62b",
+    "website": "8-04-quantum-physics-i-spring-2013"
+  },
+  "course_title": "Quantum Physics I",
+  "course_description": "This course covers the experimental basis of quantum physics. It introduces wave mechanics, Schr\u00f6dinger's equation in a single dimension, and Schr\u00f6dinger's equation in three dimensions.\n\nIt is the first course in the undergraduate Quantum Physics sequence, followed by [_8.05 Quantum Physics II_](/courses/8-05-quantum-physics-ii-fall-2013/) and [_8.06 Quantum Physics III_](/courses/8-06-quantum-physics-iii-spring-2016/).",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.04",
+  "course_image_thumbnail": {
+    "content": "720b70bf-4d82-d728-2f36-f4dfca689de1",
+    "website": "8-04-quantum-physics-i-spring-2013"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Exams",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "95227892-f73d-4b29-b534-59b3b8b3344d",
+  "site_short_id": "8.04-spring-2013",
+  "title": "Course Metadata"
+}
